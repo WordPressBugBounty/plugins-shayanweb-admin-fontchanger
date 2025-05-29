@@ -4,7 +4,7 @@ Plugin Name: ShayanWeb Admin FontChanger | افزونه‌ی تغییر فونت
 Plugin URI:  https://ShayanWeb.com/blog/change-wp-admin-font/
 Author:      ShayanWeb
 Author URI:  https://ShayanWeb.com/
-Version: 	 1.9
+Version: 	 1.9.1
 Tags: fonts, admin, wp-admin
 Requires at least: 5.2
 Tested up to: 6.8.1
