@@ -3,7 +3,7 @@ Contributors: shayanfp
 Tags: fonts, admin, wp-admin
 Requires at least: 5.2
 Tested up to: 6.8.2
-Stable tag: 1.10.1
+Stable tag: 1.10
 Requires PHP: 5.6
 Donate link: https://ShayanWeb.com/
 License: GPLv2 or later
@@ -30,6 +30,9 @@ Check out ShayanWeb articles about WordPress for having an amazing online busine
 
 == Frequently Asked Questions ==
 
+= Where do I report security bugs found in this plugin? =
+Please report security bugs found in the source code of the ShayanWeb Admin FontChanger plugin through the [Patchstack Vulnerability Disclosure Program](https://patchstack.com/database/vdp/c28a2bf1-414f-4bd5-81e1-cfbc398c1282). The Patchstack team will assist you with verification, CVE assignment, and notify the developers of this plugin.
+
 = Where are the options for this plugin? =
 
 After you install this plugin, your wp-admin font will immediately change! We've also added an options panel for this plugin, so you can choose between fonts, disable some features, and more.
@@ -50,9 +53,6 @@ Yes! We have added options for this. Go to "Settings" and find "ShayanWeb FontCh
 = How can I change my WordPress theme font as well? =
 
 We highly recommend using your WordPress theme settings to do that. But if your current WordPress theme does not provide this feature, you can use the setting that we have put in the theme options panel. Just check the option and that's it!
-
-= Where do I report security bugs found in this plugin? =
-Please report security bugs found in the source code of the ShayanWeb Admin FontChanger plugin through the [Patchstack Vulnerability Disclosure Program](https://patchstack.com/database/vdp/c28a2bf1-414f-4bd5-81e1-cfbc398c1282). The Patchstack team will assist you with verification, CVE assignment, and notify the developers of this plugin.
 
 == Screenshots ==
 
