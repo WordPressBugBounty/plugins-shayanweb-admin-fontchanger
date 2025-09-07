@@ -2,8 +2,8 @@
 Contributors: shayanfp
 Tags: fonts, admin, wp-admin
 Requires at least: 5.2
-Tested up to: 6.8.1
-Stable tag: 1.9.1
+Tested up to: 6.8.2
+Stable tag: 1.10
 Requires PHP: 5.6
 Donate link: https://ShayanWeb.com/
 License: GPLv2 or later
@@ -57,6 +57,10 @@ We highly recommend using your WordPress theme settings to do that. But if your 
 2. Plugin settings interface
 
 == Changelog ==
+
+= 1.10 - 2025-07-09 =
+* Security Enhancement: Strengthened security by adding nonce verification to admin AJAX requests and improving sanitization across all inputs and outputs.
+* WordPress 6.8.2 Compatibility Check
 
 = 1.9.1 - 2025-05-29 =
 * Improved compatibility with WordPress code editors (plugins/themes editor) by preserving default monospace font (CodeMirror) for better readability
