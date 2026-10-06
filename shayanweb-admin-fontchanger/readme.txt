@@ -62,7 +62,7 @@ We highly recommend using your WordPress theme settings to do that. But if your 
 == Changelog ==
 
 = 1.12 - 2026-06-03 =
-* Fix: Resolved font loading issues and layout breaks in the Gutenberg block editor (iframe) to ensure full compatibility with WordPress 7.0.
+* Fix: Resolved font loading issues in the Gutenberg block editor (iframe) to ensure full compatibility with WordPress 7.0.
 * Fix: Corrected the `_load_textdomain_just_in_time` warning in WordPress 6.7+ by adjusting the translation loading hook.
 
 = 1.11 - 2026-05-26 =
